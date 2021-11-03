@@ -1,0 +1,8 @@
+.header__languages-item {
+  list-style-type: none;
+  margin-right: 18px;
+}
+
+.header__languages-item:last-child {
+  margin-right: 0;
+}

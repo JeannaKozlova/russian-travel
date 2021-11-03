@@ -1,0 +1,7 @@
+.main__main-illustration {
+  grid-column: 1;
+  grid-row: 3;
+  max-width: 100%;
+  object-fit: cover;
+  margin-bottom: 8px;
+}

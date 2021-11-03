@@ -1,8 +1,8 @@
-# "Путешествия по России. Учебное задание"
+# Путешествие по России
 
-Landing page.
+Адаптивная верстка
 
-### Описание
-html, css.
+- HTML
+- CSS
 
-Проект: https://jeannakozlova.github.io/Russia-Travel/
+Ссылка на проект (https://jeannakozlova.github.io/russian-travel/)
