@@ -6,11 +6,11 @@
 @import url(../blocks/header/__switch-link/header__switch-link.css);
 @import url(../blocks/header/__switch-links/header__switch-links.css);
 @import url(../blocks/header/__switch-link/_active/header__switch-link_active.css);
-@import url(../blocks/main/main.css);
-@import url(../blocks/main/__title/main__title.css);
-@import url(../blocks/main/__subtitle/main__subtitle.css);
-@import url(../blocks/main/__image/main__image.css);
-@import url(../blocks/main/__caption/main__caption.css);
+@import url(../blocks/first/first.css);
+@import url(../blocks/first/__title/first__title.css);
+@import url(../blocks/first/__subtitle/first__subtitle.css);
+@import url(../blocks/first/__image/first__image.css);
+@import url(../blocks/first/__caption/first__caption.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
