@@ -1,4 +1,4 @@
-.first__title {
+.main__title {
   grid-area: 1 / 1 / 2 / 2;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 720px) {
-  .first__title {
+  .main__title {
     font-size: 64px;
     line-height: 68px;
     margin: 0 auto;
@@ -19,20 +19,20 @@
 }
 
 @media screen and (max-width: 645px) {
-  .first__title {
+  .main__title {
     font-size: 50px;
   }
 }
 
 @media screen and (max-width: 460px) {
-  .first__title {
+  .main__title {
     font-size: 40px;
     line-height: 44px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .first__title {
+  .main__title {
     max-width: 288px;
     line-height: 44px;
   }

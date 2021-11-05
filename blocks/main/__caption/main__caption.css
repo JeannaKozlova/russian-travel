@@ -1,4 +1,4 @@
-.first__caption {
+.main__caption {
   grid-area: 4 / 1 / 5 / 2;
   margin: 0;
   padding-top: 8px;
@@ -11,14 +11,14 @@
 }
 
 @media screen and (max-width: 768px) {
-  .first__caption {
+  .main__caption {
     margin: 0 24px;
   }
 
 }
 
 @media screen and (max-width: 320px) {
-  .first__caption {
+  .main__caption {
     margin: 0 16px;
   }
 

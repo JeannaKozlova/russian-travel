@@ -8,7 +8,7 @@
   max-width: 100%;
 }
 
-.place:not(:first-of-type) {
+.place:not(:main-of-type) {
   padding-top: 80px;
 }
 
@@ -21,7 +21,7 @@
 }
 
 @media screen and (max-width: 960px) {
-  .place:not(:first-of-type) {
+  .place:not(:main-of-type) {
     padding-top: 73px;
   }
 
@@ -33,7 +33,7 @@
 }
 
 @media screen and (max-width: 610px) {
-  .place:not(:first-of-type) {
+  .place:not(:main-of-type) {
     padding-top: 50px;
   }
 

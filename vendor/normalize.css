@@ -25,10 +25,10 @@ body {
 }
 
 /**
- * Render the `first` element consistently in IE.
+ * Render the `main` element consistently in IE.
  */
 
-first {
+main {
   display: block;
 }
 

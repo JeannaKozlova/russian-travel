@@ -8,7 +8,7 @@
   color: #ffffff;
 }
 
-.place__article:not(:first-of-type) {
+.place__article:not(:main-of-type) {
   padding-top: 25px;
 }
 
